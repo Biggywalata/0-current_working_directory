@@ -1,0 +1,2 @@
+#!/bin/bash
+primtf "%.2f\n" $NUM
